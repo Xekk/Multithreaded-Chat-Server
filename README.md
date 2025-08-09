@@ -33,6 +33,11 @@ Supports multiple concurrent clients, unique usernames, and custom commands.
 git clone https://github.com/yourusername/chat-server.git
 cd chat-server
 ```
+### 2️⃣ Start the server
+Run ChatServer.java (default port is 12345).
+### 3️⃣ Start clients
+Run ChatClient.java. Each instance will correspond to a client.
+
 ## 💬 Usage
 Upon starting, the client will prompt for a unique username
 
